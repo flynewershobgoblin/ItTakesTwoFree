@@ -9,14 +9,14 @@ This guide will walk you through installing *It Takes Two* using the installatio
 To run *It Takes Two* smoothly, your PC should meet at least the following specifications:
 
 | Component        | Minimum Requirement                       |
-|------------------|--------------------------------------------|
-| **OS**           | Windows 8.1 (64-bit) or Windows 10 (64-bit) |
-| **Processor**    | Intel Core i3-2100T or AMD FX 6100         |
-| **Memory**       | 8 GB RAM                                   |
-| **Graphics**     | NVIDIA GeForce GTX 660 or AMD R7 260x      |
-| **DirectX**      | Version 11                                 |
-| **Network**      | Broadband Internet connection              |
-| **Storage**      | 50 GB available space                      |
+|------------------|------------------------------------------------|
+| **OS**           | Windows 8.1 (64-bit) or Windows 10-11 (64-bit) |
+| **Processor**    | Intel Core i3-2100T or AMD FX 6100             |
+| **Memory**       | 8 GB RAM                                       |
+| **Graphics**     | NVIDIA GeForce GTX 660 or AMD R7 260x          |
+| **DirectX**      | Version 11                                     |
+| **Network**      | Broadband Internet connection                  |
+| **Storage**      | 50 GB available space                          |
 
 > ⚠️ Note: These are the minimum requirements. For the best experience, higher specifications are recommended.
 
